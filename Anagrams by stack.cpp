@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// simular push y pop de una word para convertirla en wordWanted, este codigo no hace busqueda completa, no sirve para todos los casos
 
 int main(){
     string word;

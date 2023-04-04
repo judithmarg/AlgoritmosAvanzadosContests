@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// Conocer quien ganara en cuanto a una carrera de pilotos, o si existe empate
 
 int main(){
     int g,p;

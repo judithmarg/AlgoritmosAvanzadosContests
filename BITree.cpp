@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// extraido de GeeksForGeeks
 
 int getSum(int BITree[], int index){
     int sum = 0;

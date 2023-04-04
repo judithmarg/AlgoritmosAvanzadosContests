@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// extraido de GeeksForGeeks
 
 struct SegmentTreeNode {
     int start, end, sum;

@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//simular la rotacion de cuadrados, representados por * . donde se quiere saber cuanto fue rotado
 
 void rotar(vector<string> &square,int n){
     vector<string> twice(n, string(n, ' '));
